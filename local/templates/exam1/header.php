@@ -6,6 +6,7 @@ $hour = (int)date('H');
 $hourWork = false;
 if ($hour >= 9 and $hour <= 18) {
     $hourWork = true;
+    
 }
 
 ?>

@@ -32,4 +32,12 @@ $arUrlRewrite=array (
     'PATH' => '/rew/index.php',
     'SORT' => 100,
   ),
+  5 => 
+  array (
+    'CONDITION' => '#^#',
+    'RULE' => '',
+    'ID' => 'bitrix:news',
+    'PATH' => '/local/templates/exam1/footer.php',
+    'SORT' => 100,
+  ),
 );
